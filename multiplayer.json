@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "version": "2026.11.27.3",
-  "publishedAt": "2026-11-27T14:14:38.6564191+02:00",
+  "version": "2026.11.27.9",
+  "publishedAt": "2026-11-27T18:14:29.7974691+00:00",
   "packageUrl": "http://83.218.211.15:30120/download/Trace-Multiplayer-Client.zip",
-  "sha256": "36c9f9ee65d181d925abb29b9b7c3583be352043032ff2d1e7a0abd1bd965401",
-  "size": 160188458,
+  "sha256": "cb80a14e83e290b33fa56aa8304e2892e045bb250aa2a264c8b4a5215d7501da",
+  "size": 160624174,
   "source": {
     "repository": "https://github.com/avalon-1337/trace-mp",
-    "commit": "e056a0301050170500f3f0c0957851c4816188e7",
+    "commit": "e157dc8cb207e2beec2c5547a6b4a352dbeb66fc",
     "path": "OwnMultiplayer"
   },
   "resources": {
@@ -21,13 +21,13 @@
     ]
   },
   "installer": {
-    "version": "2026.11.27.3",
-    "packageUrl": "https://raw.githubusercontent.com/r33fr3-blip/tracemp-updates/aa0ff46fce389b766485f5c6dc1662f37eb08251/Trace-Multiplayer-Setup.exe",
-    "sha256": "8e3d5bd13070f9972027d249eb7dfdfa14ddb6d5a950903d763891001b33a674",
-    "size": 98401032,
+    "version": "2026.11.27.9",
+    "packageUrl": "https://raw.githubusercontent.com/r33fr3-blip/tracemp-updates/59f60c43cd03c9471c37b8d19ecd5722b76e94af/Trace-Multiplayer-Setup.exe",
+    "sha256": "d0b9255994367d109ae606607fea1aa429a60696316047af28ffe079602bea24",
+    "size": 98454836,
     "source": {
       "repository": "https://github.com/avalon-1337/trace-mp",
-      "commit": "e056a0301050170500f3f0c0957851c4816188e7",
+      "commit": "e157dc8cb207e2beec2c5547a6b4a352dbeb66fc",
       "path": "OwnMultiplayer/Installer"
     }
   }
