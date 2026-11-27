@@ -1,5 +1,5 @@
 {
-  "tlsCertificateSha256": "de0f451998dfb45e52c9c6ee24d548f866b03a0a13238a27f525c36b2c4b8477",
+  "tlsCertificateSha256": "40145f71ef382077a1b239957196be205ffc0957692bec892aa4b1e8d038f8e9",
   "version": 1,
   "directoryUrl": "https://83.218.211.15:30124/servers.json",
   "multiplayerManifestUrl": "https://raw.githubusercontent.com/r33fr3-blip/tracemp-updates/main/multiplayer.json"
