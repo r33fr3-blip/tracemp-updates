@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "version": "2026.11.27.1",
+  "publishedAt": "2026-11-27T08:38:33.7311040+00:00",
+  "packageUrl": "http://83.218.211.15:30120/download/Trace-Multiplayer-Client.zip",
+  "sha256": "9c7e2df27a9e691ad3e129234dab04087fa39601cb7046a19fa2c9db209a3d49",
+  "size": 160147602,
+  "source": {
+    "repository": "https://github.com/avalon-1337/trace-mp",
+    "commit": "1c1889d436df0d6ef96bddad4d0acf95201893f3",
+    "path": "OwnMultiplayer"
+  },
+  "resources": {
+    "version": "1.0.1",
+    "ids": [
+      "trace-g63",
+      "trace-rs6",
+      "trace-supra",
+      "trace-taycan",
+      "trace-zeekr009"
+    ]
+  }
+}
