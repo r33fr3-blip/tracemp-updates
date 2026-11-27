@@ -1,7 +1,7 @@
 {
   "format": 1,
   "version": "2026.11.27.1",
-  "publishedAt": "2026-11-27T08:38:33.7311040+00:00",
+  "publishedAt": "2026-11-27T10:38:33.731104+02:00",
   "packageUrl": "http://83.218.211.15:30120/download/Trace-Multiplayer-Client.zip",
   "sha256": "9c7e2df27a9e691ad3e129234dab04087fa39601cb7046a19fa2c9db209a3d49",
   "size": 160147602,
@@ -19,5 +19,16 @@
       "trace-taycan",
       "trace-zeekr009"
     ]
+  },
+  "installer": {
+    "version": "2026.11.27.1",
+    "packageUrl": "https://raw.githubusercontent.com/r33fr3-blip/tracemp-updates/main/Trace-Multiplayer-Setup.exe",
+    "sha256": "8016787d4949e994c45a65ffd4e93cdfef23ced575e9ef14e64e3f87ddc57b89",
+    "size": 98377614,
+    "source": {
+      "repository": "https://github.com/avalon-1337/trace-mp",
+      "commit": "06d8eff4c45535f9e6ad505ca0d61547a86bf244",
+      "path": "OwnMultiplayer/Installer"
+    }
   }
 }
